@@ -1,0 +1,4 @@
+normalize
+firebase
+styled-components
+fuse.js
